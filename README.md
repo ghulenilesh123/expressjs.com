@@ -44,7 +44,7 @@ To preview the website locally, we have two options: using Docker or using Bundl
    ```
 
 1. Navigate to the cloned repository directory and run the following command:
-
+nilesh ghule
    ```sh
    $ bundle install
    ```
